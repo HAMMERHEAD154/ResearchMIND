@@ -16,7 +16,7 @@ Modern researchers spend significant time reading, comparing, and extracting inf
 
 Traditional AI summarization tools generally operate on a single document and often generate unsupported answers without providing evidence from the original source.
 
-ResearchMind addresses these limitations by:
+ResearchMind AI addresses these limitations by:
 
 * Creating a searchable research knowledge repository.
 * Retrieving relevant information before generating responses.
