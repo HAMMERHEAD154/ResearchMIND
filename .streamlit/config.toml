@@ -9,13 +9,6 @@ font = "sans serif"
 [server]
 maxUploadSize = 200
 enableCORS = false
-fileWatcherType = "none"
-runOnSave = false
-
 
 [browser]
 gatherUsageStats = false
-
-[client]
-toolbarMode = "viewer"
-
